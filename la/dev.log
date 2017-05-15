@@ -1,0 +1,15 @@
+yarn start v0.23.4
+$ react-scripts start 
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:62413/
+
+Note that the development build is not optimized.
+To create a production build, use yarn run build.
+
+Compiling...
+Compiled successfully!

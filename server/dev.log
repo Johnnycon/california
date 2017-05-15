@@ -1,0 +1,7 @@
+yarn start v0.23.4
+$ nodemon -r babel-register server.js 
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node -r babel-register server.js`[39m
+Listening on 61016
